@@ -2,6 +2,12 @@
 
 Small command-line utility that shows Codex banked reset credits, their expiry times, and current Codex usage windows.
 
+## Usage
+
+```sh
+npx codex-reset-credits
+```
+
 ## What It Does
 
 - Reads your local Codex auth file at `~/.codex/auth.json`.
